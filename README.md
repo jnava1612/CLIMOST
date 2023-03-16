@@ -1,8 +1,7 @@
----
-title: Climatic Model Simplification Tools
-author: Jorge Eduardo Nava Sejas
-date: 03/15/2023
----
+%title: Climatic Model Simplification Tools
+%author: Jorge Eduardo Nava Sejas
+%date: 03/15/2023
+
 # CLIMOST
 ---
 
